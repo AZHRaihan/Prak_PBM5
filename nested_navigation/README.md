@@ -1,4 +1,4 @@
-# nested_navigation
+# Nested Navigation
 
 ![nested nav main](https://github.com/user-attachments/assets/4fe9a33e-afa8-4634-a5cd-d2a06298fca3)
 
