@@ -1,16 +1,12 @@
-# navigation
+# Navigation
+![navigation utama (pre)](https://github.com/user-attachments/assets/210e9e52-db80-4f4c-bf0b-07c344659de9)
 
-A new Flutter project.
+![nav detail](https://github.com/user-attachments/assets/ea7b5c7e-7de7-412d-870e-c1127c2e9e44)
 
-## Getting Started
+![detail route](https://github.com/user-attachments/assets/4f92751c-4847-47ab-a424-9f3224a5be40)
 
-This project is a starting point for a Flutter application.
+![nav setting screen](https://github.com/user-attachments/assets/18f18c0b-84d4-44bf-bfab-287d6418fede)
 
-A few resources to get you started if this is your first Flutter project:
+![navigation utama](https://github.com/user-attachments/assets/3c655fb4-2624-4b5c-aa34-c456d060d651)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![about page](https://github.com/user-attachments/assets/6f60fa40-a227-4249-b01c-f234a4a1a929)
