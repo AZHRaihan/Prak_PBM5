@@ -1,6 +1,11 @@
 # Deep Link Navigation
 ![navigation_20 main](https://github.com/user-attachments/assets/6ab337c5-b56f-42d4-81ac-4b74e9efe02d)
-
+class HomeScreen extends StatelessWidget { ... }
+- Menampilkan daftar item
+- Menggunakan ListView.builder
+class DetailScreen extends StatelessWidget { ... }
+- Menampilkan info yang dipilih
+- Tombol back to home memanggil onBack() untuk kembali
 ![item 1](https://github.com/user-attachments/assets/d957278c-e772-47b9-a7ac-6c7c94cd8d36)
 
 ![item 2](https://github.com/user-attachments/assets/0c026d44-82b1-4740-8ea1-29708e7f2dc8)
