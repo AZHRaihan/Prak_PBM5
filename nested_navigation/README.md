@@ -1,16 +1,11 @@
 # nested_navigation
 
-A new Flutter project.
+![nested nav main](https://github.com/user-attachments/assets/4fe9a33e-afa8-4634-a5cd-d2a06298fca3)
 
-## Getting Started
+![setup flow](https://github.com/user-attachments/assets/096c0778-b92a-4d79-8be5-e8e6b8536adf)
 
-This project is a starting point for a Flutter application.
+![connecting to device](https://github.com/user-attachments/assets/93e37c61-36a9-455e-a005-383875555722)
 
-A few resources to get you started if this is your first Flutter project:
+![connection configuration](https://github.com/user-attachments/assets/f4ce7c51-44ce-434d-8e69-d5263451a771)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![configure device](https://github.com/user-attachments/assets/24d23c97-7b83-4a8f-a90b-bd860751e593)
