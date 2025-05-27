@@ -1,16 +1,12 @@
-# deep_link_navigation
+# Deep Link Navigation
+![navigation_20 main](https://github.com/user-attachments/assets/6ab337c5-b56f-42d4-81ac-4b74e9efe02d)
 
-A new Flutter project.
+![item 1](https://github.com/user-attachments/assets/d957278c-e772-47b9-a7ac-6c7c94cd8d36)
 
-## Getting Started
+![item 2](https://github.com/user-attachments/assets/0c026d44-82b1-4740-8ea1-29708e7f2dc8)
 
-This project is a starting point for a Flutter application.
+![item 3](https://github.com/user-attachments/assets/d6048a28-ef73-48f2-a326-90d3ae3f64c1)
 
-A few resources to get you started if this is your first Flutter project:
+![deep link setting main](https://github.com/user-attachments/assets/38a6a16a-9808-425d-9772-f217855816ab)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![deep link settings](https://github.com/user-attachments/assets/56966b1d-5364-49b6-a51b-26fcc00c01e1)
